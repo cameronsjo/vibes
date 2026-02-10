@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "vibes",
+  "description": "Communication style commands - hype, sass, roast, and unhinged modes",
+  "owner": {
+    "name": "Cameron Sjo",
+    "github": "cameronsjo"
+  },
+  "plugins": [
+    {
+      "name": "vibes",
+      "source": "./.claude-plugin",
+      "description": "Communication style commands - hype, sass, roast, and unhinged modes for different energy levels",
+      "version": "1.0.0"
+    }
+  ]
+}

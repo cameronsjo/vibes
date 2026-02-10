@@ -1,0 +1,17 @@
+{
+  "name": "vibes",
+  "description": "Communication style commands - hype, sass, roast, and unhinged modes for different energy levels",
+  "version": "1.0.0",
+  "author": {
+    "name": "cameronsjo"
+  },
+  "keywords": [
+    "personality",
+    "communication",
+    "hype",
+    "sass",
+    "roast",
+    "unhinged",
+    "vibes"
+  ]
+}
