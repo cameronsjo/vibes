@@ -10,8 +10,7 @@
     {
       "name": "vibes",
       "source": "./.claude-plugin",
-      "description": "Communication style commands - hype, sass, roast, and unhinged modes for different energy levels",
-      "version": "1.0.0"
+      "description": "Communication style commands - hype, sass, roast, and unhinged modes for different energy levels"
     }
   ]
 }
